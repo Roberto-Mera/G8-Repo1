@@ -5,6 +5,13 @@ Primer repositorio
 python
 
 ~~~python
+class github:
+  """
+  Mi primera clase
+  """
+  def_init_(self):
+    print("Pronto veremos eso")
+
 def function():
   print("Hola Mundo")
 ~~~
